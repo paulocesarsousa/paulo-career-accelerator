@@ -1,0 +1,84 @@
+CARTA DE APRESENTAÇÃO
+Paulo César Mendes de Sousa Júnior
+Profissional de Dados Sênior | 20+ Anos de Experiência
+
+Brasília - DF | (61) 99508-7793 | paulocesarsousa@gmail.com
+LinkedIn: https://www.linkedin.com/in/paulocesarsousa
+
+---
+
+Prezados(as) Recrutadores(as),
+
+Apresento minha candidatura como Profissional de Dados Sênior com mais de 20 anos de experiência em todo o ciclo de vida da gestão de dados, atuando desde Big Four (Capgemini) até órgãos governamentais críticos (PRF, TCU, TST) e grandes corporações (Caixa, Furnas, Natura, ArcelorMittal).
+
+COMPETÊNCIAS ABRANGENTES EM DADOS
+
+✓ **Engenharia de Dados**: Pipelines modernos com DBT/Trino, 15+ anos em ETL/ELT (Informatica, DataStage, SAP Data Services), automação com Python
+
+✓ **Arquitetura de Dados**: Design de plataformas robustas e escaláveis (Capgemini/Caixa 3 anos, PRODERJ 2 anos), arquiteturas on-premise, cloud e híbridas
+
+✓ **Modelagem de Dados**: Expert em PowerDesigner, 20+ anos criando modelos dimensionais otimizados (Star, Snowflake, Data Vault)
+
+✓ **Governança de Dados**: DMBOK desde 2009, implementação de frameworks completos de governança, conformidade regulatória (LGPD)
+
+✓ **Análise de Dados**: 20+ anos em OLAP, análises multidimensionais complexas, milhares de relatórios gerenciais entregues
+
+✓ **Ciência de Dados**: SAS Certified (Base Programmer + Visual Business Analyst), machine learning, modelos preditivos, Python/scikit-learn
+
+✓ **Qualidade de Dados**: 30+ projetos com Data Quality, processos de validação/limpeza/enriquecimento, projeto Natura de saneamento
+
+✓ **Administração de Dados**: Gestão de Oracle, SQL Server, Sybase IQ, PostgreSQL, MySQL, MongoDB; otimização e tuning
+
+✓ **Business Intelligence**: SAP BusinessObjects (18+ anos, 2 certificações), Power BI (5+ anos), 50+ projetos implementados
+
+✓ **Data Warehousing**: DW/DM corporativos, arquiteturas Kimball/Inmon/Data Vault, projetos Caixa (5+ anos) e Furnas (4 anos)
+
+✓ **Master Data Management**: Projeto Natura de unificação de dados mestres, gestão de golden records, múltiplos domínios
+
+✓ **Metadata Management**: Dicionários de dados, catálogos corporativos, data lineage, projeto FNDE com PowerDesigner
+
+DIFERENCIAIS ESTRATÉGICOS
+
+• **DMBOK Practitioner**: Aplicação consistente desde 2009 em todos os projetos
+• **AI-Augmented Professional**: Uso estratégico de Claude, ChatGPT, Copilot (ganhos de 40-60% em produtividade)
+• **Especialista em Legados**: Engenharia reversa, mapeamento e migração de sistemas complexos
+• **Líder Técnico**: Coordenação de squads, 15+ programas de treinamento ministrados
+• **Visão de Negócio**: Tradução eficaz de requisitos em soluções técnicas de alto valor
+
+TRAJETÓRIA DESTACADA
+
+**Big Four**: Capgemini (3 anos - Arquiteto de Dados)
+**Financeiro**: Caixa Econômica Federal (5+ anos acumulados), BRB, Bancorbras
+**Energia**: Furnas/Eletrobrás (4 anos), Transpetro, Neo Energia
+**Governo**: PRF, TCU, TST, ANTT, SEPLAG-RJ, FNDE, PRODERJ
+**Indústria**: LEAR, ArcelorMittal, Stellantis, Natura
+
+STACK TECNOLÓGICA
+
+**Moderno**: DBT, Trino, Power BI, Python, Git, AWS, Databricks
+**BI Platforms**: SAP BusinessObjects, Power BI, SAS, MicroStrategy
+**ETL**: Informatica, DataStage, SAP Data Services, SSIS, Python
+**Databases**: Oracle, SQL Server, Sybase IQ, PostgreSQL, MySQL, MongoDB
+**Linguagens**: SQL (expert), Python (avançado), PL/SQL, M, DAX
+
+CERTIFICAÇÕES
+
+• SAP Certified - BusinessObjects Web Intelligence XI 3.x
+• SAP Certified - BusinessObjects BI Platform 4.1
+• SAS Certified Base Programmer for SAS 9
+• SAS Certified Visual Business Analyst
+
+RESULTADOS MENSURÁVEIS
+
+• 50+ projetos de dados/BI implementados
+• 30+ clientes em setores diversos
+• 15+ migrações complexas (zero downtime)
+• Centenas de profissionais capacitados
+• TB+ de dados gerenciados
+
+Estou à disposição para discussões sobre como minha experiência abrangente em todas as disciplinas de dados pode agregar valor à sua organização.
+
+Atenciosamente,
+
+Paulo César Mendes de Sousa Júnior
+(61) 99508-7793 | paulocesarsousa@gmail.com

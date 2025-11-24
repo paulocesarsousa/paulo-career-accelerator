@@ -1,0 +1,63 @@
+# Python Virtual Environment (já tinha)
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment Variables
+.env
+.env.local
+*.env
+
+# Data files (não commitar dados sensíveis)
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Vector databases (arquivos grandes)
+vector_db/
+chroma_db/
+*.index
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary
+*.tmp
+~$*
+
+# Large files
+data/
+datasets/
+*.zip

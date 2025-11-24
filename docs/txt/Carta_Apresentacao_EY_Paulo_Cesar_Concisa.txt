@@ -1,0 +1,51 @@
+CARTA DE APRESENTAÇÃO - VERSÃO CONCISA
+Vaga: Engenheiro de Dados - Migração SAS para Databricks
+EY Brasil
+
+Prezados Recrutadores da EY,
+
+Candidato-me à posição de Engenheiro de Dados com mais de 20 anos de experiência transformando dados em valor de negócio, incluindo expertise específica nos requisitos críticos desta vaga.
+
+ALINHAMENTO DIRETO COM A VAGA
+
+**Experiência SAS Comprovada**
+• SAS Certified Base Programmer e Visual Business Analyst
+• 4+ anos em projetos SAS (Caixa Econômica Federal, VERT, AVVALE)
+• Domínio completo da stack: SAS 7.4, Enterprise Guide, Data Integration Studio, Visual Analytics
+
+**Databricks, Python e PySpark**
+• Desenvolvimento atual de pipelines modernos com DBT, Trino e Python (Logiks, 2019-presente)
+• Expertise em processamento distribuído e arquiteturas de dados em escala
+• Automação avançada com Python para ETL/ELT e validação de dados
+
+**Migrações Complexas Bem-Sucedidas**
+• SEPLAG-RJ: Migração Pentaho/Oracle BIEE → SAP BusinessObjects
+• Capgemini/Caixa: Sistema transacional → ambiente analítico SAP
+• PRODERJ: SAP BusinessObjects 3.1 → 4.0 (múltiplos departamentos)
+• Padrão consistente: zero downtime, máxima eficiência
+
+**Setor Financeiro**
+• 5+ anos acumulados na Caixa Econômica Federal
+• Projetos em BRB, Bancorbras, Transpetro
+• Profundo entendimento de governança, segurança e compliance
+
+DIFERENCIAIS
+
+• **DMBOK desde 2009**: Governança, qualidade e arquitetura de dados como padrão
+• **AI como Multiplicador**: Uso estratégico de Claude, ChatGPT e GitHub Copilot para acelerar desenvolvimento e análise (ganhos de 40-60%)
+• **Liderança Técnica**: 15+ programas de treinamento ministrados, coordenação de squads multidisciplinares
+• **Impacto Social**: Track record em projetos governamentais de alto impacto (PRF, TCU, FNDE)
+
+POR QUE A EY
+
+A oportunidade de atuar em uma Big Four, em projeto estratégico para uma grande instituição financeira, alinha-se perfeitamente com minha aspiração de evoluir para Arquiteto de Dados Sênior em ambiente globalmente conectado e culturalmente diverso.
+
+Estou disponível para discutir como minha experiência pode acelerar os resultados do squad de migração.
+
+Contato: (61) 99508-7793 | paulocesarsousa@gmail.com
+LinkedIn: https://www.linkedin.com/in/paulocesarsousa
+
+Atenciosamente,
+
+Paulo César Mendes de Sousa Júnior
+Brasília - DF
