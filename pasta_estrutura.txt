@@ -1,0 +1,45 @@
+﻿Estrutura da pasta: C:\projetos\paulo_sousa\paulo-career-accelerator
+Gerado em: 11/25/2025 15:16:43
+--------------------------------------------------
++--- docs
+|   +--- docx
+|   |   +--- Carta_Apresentacao_EY_Paulo_Cesar.docx
+|   |   \--- Carta_Apresentacao_Master_Paulo_Cesar.docx
+|   +--- md
+|   |   +--- CURSOR_CONTEXT_CAREER_TRANSITION.md
+|   |   +--- CURSOR_MASTER_CONTEXT.md
+|   |   +--- GUIA_PASSO_A_PASSO.md
+|   |   \--- PLANO_COMPLETO_TRANSICAO_CARREIRA.md
+|   +--- txt
+|   |   +--- Carta_Apresentacao_EY_Paulo_Cesar_Concisa.txt
+|   |   +--- Carta_Apresentacao_Master_Concisa.txt
+|   |   +--- GUIA_DE_USO_Cartas.txt
+|   |   \--- prompt_de_contexto_inicial.txt
+|   \--- zip
+|       \--- docs_Paulo_Career_Accelerator.zip
++--- projects
+|   \--- 01-database-documentation-assistant
+|       +--- data
+|       |   \--- .gitkeep
+|       +--- docs
+|       +--- examples
+|       +--- output
+|       |   \--- .gitkeep
+|       +--- src
+|       |   +--- database_connector.py
+|       |   \--- __init__.py
+|       +--- tests
+|       |   \--- __init__.py
+|       +--- .env.example
+|       +--- config.yaml.example
+|       +--- README.md
+|       \--- requirements.txt
++--- scripts
+|   \--- py
++--- .gitignore
++--- criar_estrutura_projeto1.ps1
++--- gerar_estrutura.bat
++--- gerar_estrutura.ps1
++--- pasta_estrutura.txt
++--- README_PRINCIPAL.txt
+\--- requirements.txt

@@ -1,0 +1,33 @@
+# Database Documentation Assistant - Requirements
+# Python 3.11+
+
+# Database Connectivity
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+pymysql==1.1.0
+
+# LLM Integration
+langchain==0.1.0
+langchain-openai==0.0.2
+openai==1.6.1
+
+# Data Processing
+pandas==2.1.4
+pydantic==2.5.3
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# CLI & UI
+streamlit==1.29.0
+click==8.1.7
+rich==13.7.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Code Quality
+black==23.12.1
+flake8==7.0.0
+mypy==1.8.0

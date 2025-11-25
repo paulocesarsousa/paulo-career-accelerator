@@ -1,0 +1,29 @@
+# Database Documentation Assistant Configuration
+
+database:
+  type: postgresql
+  host: localhost
+  port: 5432
+  name: your_database
+  
+llm:
+  provider: openai
+  model: gpt-4-turbo-preview
+  temperature: 0.3
+  max_tokens: 2000
+  
+documentation:
+  include_indexes: true
+  include_constraints: true
+  include_foreign_keys: true
+  include_sample_data: false
+  detect_pii: true
+  
+output:
+  format: markdown
+  directory: ./output
+  include_diagram: true
+  
+logging:
+  level: INFO
+  file: ./logs/app.log
