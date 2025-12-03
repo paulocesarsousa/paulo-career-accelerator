@@ -1,0 +1,257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Paulo Career Accelerator v2//Career Transition//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Career Transition - 25 Days (INÍCIO 03 DEZ)
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALDESC:Plano de 25 dias - INÍCIO 03 DEZEMBRO 2025
+
+BEGIN:VEVENT
+DTSTART:20241203T120000Z
+DTEND:20241203T140000Z
+DTSTAMP:20241202T000000Z
+UID:curriculo-update-20241203@career-accelerator
+SUMMARY:🎯 Atualizar Currículo v2.0
+DESCRIPTION:Criar versão ATS-optimized + Visual\n\nMANHÃ: 9h-11h\nArquivos: CV_PAULO_SOUSA_v2_ATS.docx + CV_PAULO_SOUSA_v2_VISUAL.pdf
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Atualizar Currículo em 15 minutos
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241203T141500Z
+DTEND:20241203T171500Z
+DTSTAMP:20241202T000000Z
+UID:python-fundamentals-1-20241203@career-accelerator
+SUMMARY:🐍 Python Fundamentos (Parte 1)
+DESCRIPTION:Academy: Python para Engenharia de Dados\nMódulos 1-3\n\n11h15-14h15\nFoco: Sintaxe básica + Estruturas de dados
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241203T173000Z
+DTEND:20241203T200000Z
+DTSTAMP:20241202T000000Z
+UID:sql-fundamentals-1-20241203@career-accelerator
+SUMMARY:📊 SQL Fundamentos (Parte 1)
+DESCRIPTION:Academy: SQL para Times de Dados\n\n14h30-17h\nFoco: Queries básicas + Joins
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241203T201500Z
+DTEND:20241203T221500Z
+DTSTAMP:20241202T000000Z
+UID:practice-sql-python-20241203@career-accelerator
+SUMMARY:💻 Prática: SQL + Python
+DESCRIPTION:Exercícios LeetCode + HackerRank\n\n17h15-19h15\nMeta: 5 SQL problems + 3 Python problems
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241204T120000Z
+DTEND:20241204T150000Z
+DTSTAMP:20241202T000000Z
+UID:python-fundamentals-2-20241204@career-accelerator
+SUMMARY:🐍 Python Fundamentos (Parte 2)
+DESCRIPTION:Academy: Python para Engenharia de Dados\nMódulos 4-6
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241204T150000Z
+DTEND:20241204T180000Z
+DTSTAMP:20241202T000000Z
+UID:sql-advanced-20241204@career-accelerator
+SUMMARY:📊 SQL Avançado
+DESCRIPTION:Academy: SQL para Times de Dados\n\nFoco: Window functions + CTEs + Subqueries
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241205T120000Z
+DTEND:20241205T160000Z
+DTSTAMP:20241202T000000Z
+UID:spark-fundamentals-20241205@career-accelerator
+SUMMARY:⚡ Apache Spark Fundamentos
+DESCRIPTION:Academy: Fundamentos de Apache Spark\n\nFoco: RDD + DataFrames basics
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241206T120000Z
+DTEND:20241206T160000Z
+DTSTAMP:20241202T000000Z
+UID:pyspark-deepdive-20241206@career-accelerator
+SUMMARY:🔥 PySpark Deep Dive
+DESCRIPTION:Academy: Workshop 04 - PySpark e Spark SQL\n\nFoco: DataFrames API + Transformations
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241209T120000Z
+DTEND:20241209T150000Z
+DTSTAMP:20241202T000000Z
+UID:databricks-intro-20241209@career-accelerator
+SUMMARY:🧱 Databricks Intro
+DESCRIPTION:Academy: Semana Databricks - Aula 1\n\nFoco: Arquitetura & Infraestrutura
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241210T120000Z
+DTEND:20241210T160000Z
+DTSTAMP:20241202T000000Z
+UID:databricks-pipelines-20241210@career-accelerator
+SUMMARY:🧱 Databricks Pipelines
+DESCRIPTION:Academy: Semana Databricks - Aula 2\n\nFoco: Construção de Pipelines Escaláveis
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241211T120000Z
+DTEND:20241211T150000Z
+DTSTAMP:20241202T000000Z
+UID:dashboards-interativos-20241211@career-accelerator
+SUMMARY:📈 Dashboards Interativos
+DESCRIPTION:Academy: Semana Databricks - Aula 3\n\nFoco: Análises Avançadas & Dashboards
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241211T150000Z
+DTEND:20241211T180000Z
+DTSTAMP:20241202T000000Z
+UID:dbt-fundamentals-20241211@career-accelerator
+SUMMARY:🔧 DBT Fundamentos
+DESCRIPTION:Academy: Workshop 08 - Pipelines com DBT\n\nFoco: Models + Tests + Documentation
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241212T120000Z
+DTEND:20241212T160000Z
+DTSTAMP:20241202T000000Z
+UID:mlops-databricks-20241212@career-accelerator
+SUMMARY:🤖 MLOps Databricks
+DESCRIPTION:Academy: Semana Databricks - Aula 4\n\nFoco: IA & MLOps
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241217T120000Z
+DTEND:20241217T160000Z
+DTSTAMP:20241202T000000Z
+UID:airflow-fundamentals-20241217@career-accelerator
+SUMMARY:🌬️ Airflow Fundamentos
+DESCRIPTION:Academy: Fundamentos de Apache Airflow\n\nFoco: DAGs + Operators + Scheduling
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241218T120000Z
+DTEND:20241218T160000Z
+DTSTAMP:20241202T000000Z
+UID:airflow-pipelines-20241218@career-accelerator
+SUMMARY:🌬️ Airflow Pipelines Modernos
+DESCRIPTION:Academy: Workshop 14 - Airflow Production\n\nFoco: Production patterns + Best practices
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241223T120000Z
+DTEND:20241223T160000Z
+DTSTAMP:20241202T000000Z
+UID:databricks-cert-prep-20241223@career-accelerator
+SUMMARY:🧱 Databricks Cert Prep
+DESCRIPTION:Databricks Associate Certification\n\nFoco: Study guide + Practice questions
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241223T170000Z
+DTEND:20241223T190000Z
+DTSTAMP:20241202T000000Z
+UID:portfolio-rag-launch-20241223@career-accelerator
+SUMMARY:🚀 LAUNCH: RAG Data Dictionary
+DESCRIPTION:Portfolio Project #3\n\nMilestone: GitHub release + Demo + Documentation
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:IMPORTANTE: Launch do RAG Data Dictionary em 30 minutos! 🎉
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241227T120000Z
+DTEND:20241227T140000Z
+DTSTAMP:20241202T000000Z
+UID:application-strategy-20241227@career-accelerator
+SUMMARY:📝 Career: Application Strategy
+DESCRIPTION:Preparar lista target companies\n\nDefinir cover letters templates\n\nPlanejar primeira rodada de aplicações
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241227T143000Z
+DTEND:20241227T150000Z
+DTSTAMP:20241202T000000Z
+UID:final-celebration-20241227@career-accelerator
+SUMMARY:🎉 CELEBRATION: 25 Days Complete!
+DESCRIPTION:Parabéns Paulo! Você completou o plano de 25 dias!\n\nConquistas:\n- 3 Portfolio projects launched\n- Python + SQL + Databricks + DBT + Airflow mastery\n- LinkedIn + Resume optimized\n- Ready para applications\n\nPróximos passos:\n- Certificações (Jan 2025)\n- Applications (20+ empresas)\n- Interviews\n\nVocê conseguiu! 🚀💪
+LOCATION:Home Office
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:🎉 PARABÉNS! Você completou o plano de 25 dias! Hora de celebrar suas conquistas! 🍾
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
